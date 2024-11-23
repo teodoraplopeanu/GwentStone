@@ -1,13 +1,11 @@
 # GwentStone
 
-<div align="center"><img src="https://tenor.com/view/witcher3-gif-9340436.gif" width="500px"></div>
-
 ## Description
 **GwentStone** is a custom card game implemented in Java, inspired by popular games such as **Hearthstone** and **Gwent**. The project showcases advanced object-oriented programming (OOP) principles and efficient use of data structures to create a dynamic, interactive gameplay experience.
 
 The game emphasizes strategic card mechanics and leverages modular design to manage complex interactions between players, cards, and the game board.
 
----
+<div align="center"><img src="https://tenor.com/view/witcher3-gif-9340436.gif" width="500px"></div>
 
 ## Features
 
