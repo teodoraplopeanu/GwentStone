@@ -206,23 +206,6 @@ These minions have unique abilities that can influence the game dynamically. The
   - Grants +2 health to an allied minion.
   - **Must be placed on the back row.**
 
-
-### Heroes
-#### **1. Fire Mage**
-- **Mana Cost**: 4
-- **Ability**: Deals 5 damage to all enemy minions.
-- **Hero Health**: 30
-
-#### **2. Shadow Priest**
-- **Mana Cost**: 3
-- **Ability**: Heals a friendly minion or hero by 6 health.
-- **Hero Health**: 30
-
-#### **3. Storm Warrior**
-- **Mana Cost**: 5
-- **Ability**: Summons a 3/3 lightning minion with charge (attacks immediately).
-- **Hero Health**: 30
-
 ---
 
 ## Strategies and Tips
