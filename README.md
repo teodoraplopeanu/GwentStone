@@ -5,6 +5,7 @@
 
 The game emphasizes strategic card mechanics and leverages modular design to manage complex interactions between players, cards, and the game board.
 
+
 <div align="center"><img src="https://tenor.com/view/witcher3-gif-9340436.gif" width="500px"></div>
 
 ## Features
